@@ -100,7 +100,7 @@ Profiles REST API is a project developed with Django REST framework to handle us
 <!-- GETTING STARTED -->
 ## Getting Started
 
-To get a local copy up and running follow these simple example steps.
+To get a local copy up and running follow these simple example steps below.
 
 ### Prerequisites
 
